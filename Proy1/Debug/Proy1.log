@@ -1,0 +1,22 @@
+﻿  huffman.c
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(129): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(166): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(193): warning C4013: 'malloc' sin definir; se supone que extern devuelve como resultado int
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(195): warning C4047: '=': 'void *' es distinto en los niveles de direccionamiento indirecto de 'char'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(193): warning C4047: 'inicializando': 'Values *' es distinto en los niveles de direccionamiento indirecto de 'int'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(234): warning C4047: 'inicializando': 'Values *' es distinto en los niveles de direccionamiento indirecto de 'int'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(285): warning C4477: 'printf' : la cadena de formato '%c' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'void *'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(305): warning C4047: 'función': 'unsigned char' es distinto en los niveles de direccionamiento indirecto de 'void *'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(305): warning C4024: 'PutByte': tipos distintos para el parámetro formal y el parámetro real 2
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(338): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(417): warning C4047: 'inicializando': 'char *' es distinto en los niveles de direccionamiento indirecto de 'unsigned char'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(456): warning C4098: 'imprimirNodo': función 'void' que devuelve un valor
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(458): warning C4098: 'imprimirNodo': función 'void' que devuelve un valor
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(464): warning C4047: '==': 'int' es distinto en los niveles de direccionamiento indirecto de 'void *'
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(467): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(467): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\enzo\facu\6to\algoritmos2\proy1\proy1\proy1\huffman.c(472): warning C4477: 'printf' : la cadena de formato '%c' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'void *'
+  Proy1.vcxproj -> C:\Enzo\facu\6to\Algoritmos2\Proy1\Proy1\Debug\Proy1.exe
